@@ -1,2 +1,2 @@
 # Messenger-Login-Page
-My sample login page look alike messenger
+This is just my sample exercise using bootstrap to create a log in page of messenger
